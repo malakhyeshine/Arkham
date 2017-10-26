@@ -1,0 +1,211 @@
+@media screen and (min-width: 600px) {
+	body {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	flex-wrap: wrap;
+}
+
+.center-horizontal {
+	display: block;
+	align-items: center;	
+}
+.center-vertical {
+	display: block;
+	justify-content: center;
+}
+h1 {
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.home {
+	width: 100vw;
+	height: 100vh;
+	background-color: blue;
+}
+.b1 {
+	width: 100vw;
+	height: 30vh;
+	background-color: green;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b2 {
+	width: 100vw;
+	height: 30vh;
+	background-color: red;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b3 {
+	width: 100vw;
+	height: 30vh;
+	display:flex;
+	flex-wrap: wrap;
+	background-color: blue;
+}
+.i {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+
+ .o {
+	 width: 100vw;
+	 height: 100vh;
+ }
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+	width: 100vw;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color: black}
+
+
+.show {display:block;}
+}
+@media screen and (min-width: 1000px) {
+body {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100vw;
+	height: 100vh;
+	background-color:black;
+}
+
+
+h1 {
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.home {
+	width: 100vw;
+	height: 100vh;
+	background-color: blue;
+}
+.b1 {
+	width: 30vw;
+	height: 100vh;
+	background-color: green;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b2 {
+	width: 30vw;
+	height: 100vh;
+	background-color: red;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b3 {
+	width: 30vw;
+	height: 100vh;
+	display:flex;
+	flex-wrap: wrap;
+	background-color: blue;
+}
+.i {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.A {
+	width:500px;
+	height: 500px;
+	background-color: black;
+}
+ .o {
+	 width: 100vw;
+	 height: 100vh;
+ }
+ .center-horizontal {
+	display: flex;
+	align-items: center;	
+}
+.center-vertical {
+	display: flex;
+	justify-content: center;
+}
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	width: 100vw;
+}
+
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: black}
+
+
+.show {display:block;}
+}
