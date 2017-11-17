@@ -1,0 +1,214 @@
+@media screen and (min-width: 600px) {
+	body {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	flex-wrap: wrap;
+	background-color: black;
+}
+.i {
+	background-image: url("images/Joker.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+}
+
+.i2 {
+	background-image: url("images/harleyquinn.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+}
+.i3 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i4 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i5 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i6 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i7 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i8 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i9 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i10 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i11 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i12 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i13 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i14 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i15 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i16 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+}
+
+@media screen and (min-width: 1000px) {
+
+.i {
+	background-color: url("images/Joker.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.i2 {
+	background-image: url("images/harleyquinn.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.i3 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i4 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i5 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i6 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i7 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i8 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i9 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i10 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i11 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i12 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i13 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i14 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i15 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i16 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+}
