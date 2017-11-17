@@ -1,0 +1,241 @@
+@media screen and (min-width: 600px) {
+	body {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	flex-wrap: wrap;
+	background-color: black;
+}
+ .A2 {
+	height:500px;
+	width:500px;
+	display:flex;
+	background-image: url("images/asylum.png");
+	background-repeat: no-repeat;
+	background-size: 500px 500px;
+}
+
+.center-horizontal {
+	display: block;
+	align-items: center;	
+}
+.center-vertical {
+	display: block;
+	justify-content: center;
+}
+h1 {
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+ .center-horizontal2 {
+	display: flex;
+	align-items: center;	
+}
+.center-vertical2 {
+	display: flex;
+	justify-content: center;
+}
+.body {
+	width: 100vw;
+	height: 100vh;
+}
+.home {
+	width: 90vw;
+	height: 80vh;
+	content: url("images/asylum.png");
+}
+.b1 {
+	width: 100vw;
+	height: 30vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b2 {
+	width: 100vw;
+	height: 30vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b3 {
+	width: 100vw;
+	height: 30vh;
+	display:flex;
+	flex-wrap: wrap;
+}
+
+ .o {
+	 width: 100vw;
+	 height: 100vh;
+ }
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+	background-image: url("images/baticon.png");
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-size: 100px 100px;
+	align-items: center;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	width: 100px;
+}
+
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color: black}
+
+
+.show {display:block;}
+}
+@media screen and (min-width: 1000px) {
+body {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100vw;
+	height: 100vh;
+	background-color:black;
+	margin: 0;
+}
+.A2 {
+	height:0vh;
+	width:0vw;
+	display:hidden;
+}
+
+h1 {
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.home {
+	width: 45vw;
+	height: 90vh;
+	content: url("images/asylum.png");
+}
+.b1 {
+	width: 30vw;
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b2 {
+	width: 30vw;
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+}
+.b3 {
+	width: 30vw;
+	height: 100vh;
+	display:flex;
+	flex-wrap: wrap;
+}
+.A {
+	width:500px;
+	height: 500px;
+	background-image: url("images/asylum.png");
+	width: 500px;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: 500px 500px;
+}
+ .o {
+	 width: 100vw;
+	 height: 100vh;
+ }
+ .center-horizontal2 {
+	display: none;
+}
+.center-vertical2 {
+	dsiplay: none;
+}
+ .center-horizontal {
+	display: flex;
+	align-items: center;	
+}
+.center-vertical {
+	display: flex;
+	justify-content: center;
+}
+ 
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+	background-image: url("images/baticon.png");
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-size: 100px 100px;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	width: 100px;
+}
+
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: black}
+
+
+.show {display:block;}
+}
