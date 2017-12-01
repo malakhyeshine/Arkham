@@ -1,0 +1,286 @@
+@media screen and (min-width: 600px) {
+	body {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	flex-wrap: wrap;
+	background-color: black;
+}
+.i {
+	background-image: url("images/Joker.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+
+}
+
+.i2 {
+	background-image: url("images/harleyquinn.jpg");
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-size: 50px 50px;
+
+}
+.i3 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i4 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	
+}
+.i5 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i6 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i7 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i8 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i9 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i10 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i11 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i12 {
+	background-color: orange;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i13 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i14 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i15 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.i16 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
+.JB {
+	background-image: url("images/Jokerbio.jpg");
+	background-position: center;
+}
+}
+
+@media screen and (min-width: 1000px) {
+
+.i {
+	background-image: url("images/Joker.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i2 {
+	background-image: url("images/harleyquinn.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i3 {
+	background-image: url("images/killercroc.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i4 {
+	background-image: url("images/posion ivy.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i5 {
+	background-image: url("images/riddler.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i6 {
+	background-image: url("images/bane.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i7 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i8 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i9 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i10 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i11 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i12 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i13 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i14 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i15 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.i16 {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	cursor: pointer;
+}
+.JB {
+	background-image: url("images/Jokerbio.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.HB {
+	background-image: url("images/HB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.KB {
+	background-image: url("images/KB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.PB {
+	background-image: url("images/PB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.RB {
+	background-image: url("images/RB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.BB {
+	background-image: url("images/BB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+}
