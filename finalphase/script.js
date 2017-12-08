@@ -555,3 +555,9 @@ document.getElementById("a").classList.toggle("BMB");
 	document.getElementById("a").classList.remove("JB");
 document.getElementById("a2").classList.toggle("BMB");
 }
+function playaudio(elem) {
+    document.getElementById("audio").play();
+}
+function spin(elem) {
+    document.getElementById("Home").classList.toggle("spin");
+}
