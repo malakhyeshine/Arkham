@@ -43,7 +43,7 @@ h1 {
 .home {
 	width: 90vw;
 	height: 80vh;
-	content: url("images/asylum.png");
+	content: url("images/batsymbol.png");
 	cursor: pointer;
 }
 .b1 {
@@ -118,6 +118,10 @@ h1 {
 
 
 .show {display:block;}
+.spin {
+	transform: rotate(360deg);
+	transition-duration: .5s;
+}
 }
 @media screen and (min-width: 1000px) {
 body {
@@ -140,9 +144,9 @@ h1 {
 	margin-right: 50px;
 }
 .home {
-	width: 45vw;
-	height: 90vh;
-	content: url("images/asylum.png");
+	width: 55%;
+	height: 85%;
+	content: url("images/batsymbol.png");
 }
 .b1 {
 	width: calc(100vw/3);
@@ -239,4 +243,8 @@ h1 {
 
 
 .show {display:block;}
+.spin {
+	transform: rotate(360deg);
+	transition-duration: .5s;
+}
 }
