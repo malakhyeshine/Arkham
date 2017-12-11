@@ -1,0 +1,505 @@
+
+@media screen and (min-width: 600px) {
+	body {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	flex-wrap: wrap;
+	background-color: black;
+}
+.i {
+	background-image: url("images/Joker.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i2 {
+	background-image: url("images/harleyquinn.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i3 {
+	width:0px;
+	height: 0px;
+	display: none;
+}
+.i4 {
+	width:0px;
+	height: 0px;
+	display: none;
+}
+.i5 {
+	background-image: url("images/riddler.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i6 {
+	background-image: url("images/bane.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i7 {
+	background-image: url("images/penguin.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i8 {
+background-image: url("images/scarecrow.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i9 {
+background-image: url("images/madhatter.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i10 {
+	background-image: url("images/mrfreeze.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i11 {
+	background-image: url("images/hugostrange.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i12 {
+background-image: url("images/firefly.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i13 {
+	background-image: url("images/twoface.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i14 {
+background-image: url("images/clayface.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i15 {
+	width:0px;
+	height: 0px;
+	display: none;
+}
+.i16 {
+	width:0px;
+	height: 0px;
+	display: none;
+}
+.JB {
+	background-image: url("images/Jokerbio.jpg");
+	background-position: center;
+}
+.HB {
+	background-image: url("images/HB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.KB {
+	background-image: url("images/KB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.PB {
+	background-image: url("images/PB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.RB {
+	background-image: url("images/RB.jpg");
+	background-position: center;
+	background-size: 700px 700px;
+}
+.BB {
+	background-image: url("images/BB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.PEB {
+	background-image: url("images/PEB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.MHB {
+	background-image: url("images/MHB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.MFB {
+	background-image: url("images/MFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.SB {
+	background-image: url("images/SB.jpg");
+	background-position: center;
+	background-size: 1000px 750px;
+}
+.HUB {
+	background-image: url("images/HUB.jpg");
+	background-position: center;
+	background-size: 1000px 750px;
+}
+.FB {
+	background-image: url("images/FB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.TFB {
+	background-image: url("images/TFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.CFB {
+	background-image: url("images/CFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.RAB {
+	background-image: url("images/RAB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.BMB {
+	background-image: url("images/BMB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+}
+@media screen and (min-width: 1000px) {
+
+.i {
+	background-image: url("images/Joker.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i2 {
+	background-image: url("images/harleyquinn.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i3 {
+	background-image: url("images/killercroc.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+	display: flex;
+}
+.i4 {
+	background-image: url("images/poisonivy.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+	display: flex;
+}
+.i5 {
+	background-image: url("images/riddler.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i6 {
+	background-image: url("images/bane.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i7 {
+	background-image: url("images/penguin.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i8 {
+background-image: url("images/scarecrow.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i9 {
+background-image: url("images/madhatter.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i10 {
+	background-image: url("images/mrfreeze.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i11 {
+	background-image: url("images/hugostrange.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i12 {
+background-image: url("images/firefly.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i13 {
+	background-image: url("images/twoface.png");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i14 {
+background-image: url("images/clayface.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+}
+.i15 {
+background-image: url("images/Ras.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+	display: flex;
+}
+.i16 {
+background-image: url("images/blackmask.jpg");
+	width: 100px;
+	height: 150px;
+	margin: 20px;
+	background-size: 100px 130px;
+	background-repeat: no-repeat;
+	background-position: center;
+	cursor: pointer;
+	background-color: black;
+	display: flex;
+}
+.JB {
+	background-image: url("images/Jokerbio.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.HB {
+	background-image: url("images/HB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.KB {
+	background-image: url("images/KB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.PB {
+	background-image: url("images/PB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.RB {
+	background-image: url("images/RB.jpg");
+	background-position: center;
+	background-size: 700px 700px;
+}
+.BB {
+	background-image: url("images/BB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.PEB {
+	background-image: url("images/PEB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.MHB {
+	background-image: url("images/MHB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.MFB {
+	background-image: url("images/MFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.SB {
+	background-image: url("images/SB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.HUB {
+	background-image: url("images/HUB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.FB {
+	background-image: url("images/FB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.TFB {
+	background-image: url("images/TFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.CFB {
+	background-image: url("images/CFB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.RAB {
+	background-image: url("images/RAB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+.BMB {
+	background-image: url("images/BMB.jpg");
+	background-position: center;
+	background-size: 800px 750px;
+}
+}
+
