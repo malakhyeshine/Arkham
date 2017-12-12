@@ -85,7 +85,11 @@ h1 {
 }
 
 
-
+.dropdown-content a:hover {background-color: yellow; color:black;}
+	
+.dropbtn:hover, .dropbtn:focus {
+    background-color: black;
+}
 
 .dropdown {
     position: relative;
