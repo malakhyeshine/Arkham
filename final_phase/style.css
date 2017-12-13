@@ -41,10 +41,11 @@ h1 {
 	height: 100vh;
 }
 .home {
-		width: 65vw;
+	width: 65vw;
 	height: 25vh;
 	content: url("images/batsymbol.png");
 	cursor: pointer;
+	position: fixed;
 }
 .b1 {
 	width: 100vw;
@@ -143,6 +144,7 @@ h1 {
 	height: 75vh;
 	content: url("images/batsymbol.png");
 	cursor: pointer;
+	position: fixed;
 }
 .b1 {
 	width: calc(100vw/3);
