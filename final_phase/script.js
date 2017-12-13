@@ -404,6 +404,7 @@ function changei11(elem){
 	document.getElementById("a").classList.remove("BMB");
 	document.getElementById("a").classList.remove("HB");
 	document.getElementById("a").classList.remove("RAB");
+	document.getElementById("a").classList.remove("FB");
 document.getElementById("a").classList.toggle("HUB");
 	document.getElementById("a2").classList.remove("JB");
 	document.getElementById("a2").classList.remove("KB");
@@ -420,6 +421,7 @@ document.getElementById("a").classList.toggle("HUB");
 	document.getElementById("a2").classList.remove("HB");
 	document.getElementById("a2").classList.remove("FB");
 	document.getElementById("a2").classList.remove("RAB");
+	document.getElementById("a2").classList.remove("FB");
 document.getElementById("a2").classList.toggle("HUB");
 document.getElementById("hugoaudio").play();
 }
